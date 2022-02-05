@@ -1,24 +1,32 @@
-body {
-  background-color:#87CEFA;
-  font-family:sans-serif;
+ h1 {
+  text-align:center; 
 }
-p {
- font-size:25px;
+main {
+  background-color:palegreen;
+ font-size:30px
+}
+h6 {
+  text-align: center
 }
 h2 {
-  font-size:30px;
+  text-align: center;
+  font-size:40px;
+}
+ul {
+  font-size: 25px;;
+}
+
+ul  list-style {
+   width:10px ;
+   height:10px ;
+}
+footer {
+    background-color:palegreen;
+}
+footer img {
+  width:70px;
+  height:70px ;
+}
+footer nav {
   text-align:center;
-}
-h1 {
-text-align:center;
-}
-td {
-  border:  solid black;
-}
-.red_tr {
- color: red;
-}
-table {
-border: solid black;
-border-collapse: collapse;
 }
